@@ -1,5 +1,5 @@
 # wordpress-native-canvas
-A hobby project
+A hobby project.
 
 A lightweight, completely blank WordPress starter theme designed as a clean canvas for custom development. Built with native WordPress functionalities, this theme provides a minimal foundation without any pre-styled components, giving developers absolute control over their design and architecture.
 
